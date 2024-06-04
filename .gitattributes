@@ -1,0 +1,2 @@
+*.Rhistory text eol=crlf 
+*.csv text eol=crlf 
